@@ -14,10 +14,6 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
-## Live Preview
-
-[Click here to view the website]
-
 ## How to Use
 
 1. Clone the repository  
